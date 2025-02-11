@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Xavier Gael San Juan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38F77C&center=true&vCenter=true&width=435&lines=4th+Year+Computer+Science+Student;Aspiring+Software+Developer;Full-Stack+Developer+in+Progress" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38F77C&center=true&vCenter=true&width=435&lines=4th+Year+Computer+Science+Student;Aspiring+Software+Developer;Front-End+Developer+in+Progress" alt="Typing SVG" />
 </div>
 
 <div align="center">
