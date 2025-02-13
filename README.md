@@ -1,4 +1,4 @@
-<h1 align="center">✨ Welcome to Xavier Gael San Juan's Digital Space ✨</h1>
+<h1 align="center">Ya boi Gael</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38F77C&center=true&vCenter=true&width=435&lines=4th+Year+Computer+Science+Student;Aspiring+Full-Stack+Developer;Creative+Coder+%26+Problem+Solver;Building+Digital+Solutions" alt="Typing SVG" />
