@@ -77,19 +77,45 @@ const gael = {
 
 ---
 
+[Previous content remains the same until the last section, where it changes to:]
+
+---
+
 <div align="center">
 
-### 🌿 "Crafting digital experiences while staying grounded in nature" 🖥️
+<br>
 
-```typescript
-function lifeBalance(): void {
-  while (true) {
-    writeElegantCode();
-    embraceNature();
-    stayCreative();
-    repeat();
-  }
-}
 ```
+┌───────────┐  
+│ ／|、      │  
+│(˚ˎ 。7     │  
+│ |、˜〵     │  
+│ じしˍ,)ノ  │  
+└───────────┘  
+
+
+```
+
+<br>
+
+**『 In pursuit of digital excellence, while the cat watches curiously 』**
+
+<br>
+
+╔══════════════════════════════════════════╗
+<br>
+&nbsp;&nbsp;&nbsp;𝚃𝚑𝚎 𝚓𝚘𝚞𝚛𝚗𝚎𝚢 𝚒𝚜 𝚝𝚑𝚎 𝚍𝚎𝚜𝚝𝚒𝚗𝚊𝚝𝚒𝚘𝚗
+<br>
+╚══════════════════════════════════════════╝
+
+<br>
+
+▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+
+<br>
+
+<sub>Created with ⚡ by Gael, somewhere between code and dreams</sub>
+
+<br>
 
 </div>
