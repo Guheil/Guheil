@@ -1,100 +1,95 @@
-<h1 align="center">Ya boi Gael</h1>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=38F77C&center=true&vCenter=true&width=435&lines=4th+Year+Computer+Science+Student;Aspiring+Full-Stack+Developer;Creative+Coder+%26+Problem+Solver;Building+Digital+Solutions" alt="Typing SVG" />
+  
+# 🚀 Gael San Juan
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;4th+Year+CS+Student;Building+Digital+Solutions)](https://git.io/typing-svg)
+
+<img height="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+[![Status](https://img.shields.io/badge/Status-Coding%20Away-64FFDA?style=for-the-badge&logoColor=black)](https://github.com/Guheil)
+[![Location](https://img.shields.io/badge/Location-Philippines-0EA5E9?style=for-the-badge)](https://github.com/Guheil)
+[![Coffee](https://img.shields.io/badge/Coffee%20Level-Fully%20Charged-FFA500?style=for-the-badge)](https://github.com/Guheil)
+
 </div>
 
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-</div>
+## 💫 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Coding%20Away-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Philippines-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coffee%20Level-Fully%20Charged-orange?style=for-the-badge" />
-</div>
-
-## 🎯 Journey & Aspirations
-
-```javascript
-const xavier = {
+```typescript
+const gael = {
+  role: "Full-Stack Developer",
   education: "4th Year Computer Science @ LORMA Colleges",
-  focus: ["Software Development", "Web Applications", "Mobile Development"],
-  passion: ["Clean Code", "User Experience", "Innovation"],
-  currentlyLearning: ["System Architecture", "Cloud Computing", "DevOps"],
-  lifePhilosophy: "Balance code with nature, creativity with logic"
+  passions: ["Clean Architecture", "User Experience", "Innovation"],
+  learning: ["System Design", "Cloud Infrastructure", "DevOps"],
+  philosophy: "Bridging technology and nature through elegant solutions"
 };
 ```
 
-## 💻 Technical Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
-  <h3>Frontend Development</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <h3>Mobile Development</h3>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <h3>Backend & Database</h3>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+
+### Frontend Ecosystem
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Database
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
 </div>
 
 ## 🌟 Life Beyond Code
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">🎸 Music</td>
-      <td align="center">🎮 Gaming</td>
-      <td align="center">🌿 Nature</td>
-      <td align="center">📚 Learning</td>
-    </tr>
-    <tr>
-      <td align="center">Guitar Enthusiast</td>
-      <td align="center">Strategic Player</td>
-      <td align="center">Outdoor Explorer</td>
-      <td align="center">Constant Learner</td>
-    </tr>
-  </table>
+
+| 🎸 Music | 🎮 Gaming | 🌿 Nature | 📚 Learning |
+|:--------:|:---------:|:---------:|:-----------:|
+| Guitar Virtuoso | Strategic Mind | Trail Explorer | Eternal Student |
+
 </div>
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Guheil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guheil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=ffffff)](https://github.com/Guheil)
+
 </div>
 
-## 🤝 Let's Connect!
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="mailto:xgael.sanjuan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Guheil">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guheil&color=blueviolet&style=flat-square" alt="Profile views" />
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xgael.sanjuan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guheil)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Guheil&color=64FFDA&style=flat-square)
+
 </div>
 
 ---
 
 <div align="center">
-  <h3>🌿 "In the perfect balance between bits and nature, we find our true creativity." 🖥️</h3>
-  
-  ```javascript
-  while (isAlive) {
-    code();
-    touchGrass();
+
+### 🌿 "Crafting digital experiences while staying grounded in nature" 🖥️
+
+```typescript
+function lifeBalance(): void {
+  while (true) {
+    writeElegantCode();
+    embraceNature();
+    stayCreative();
     repeat();
   }
-  ```
+}
+```
+
 </div>
