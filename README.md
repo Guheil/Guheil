@@ -98,7 +98,6 @@ const gael = {
 
 <br>
 
-**『 In pursuit of digital excellence, while the cat watches curiously 』**
 
 <br>
 
