@@ -16,9 +16,9 @@
 
 ```typescript
 const gael = {
-  role: "Full-Stack Developer",
-  education: "4th Year Computer Science @ LORMA Colleges",
-  passions: ["Clean Architecture", "User Experience", "Innovation"],
+  role: "Im Stuck Developer",
+  education: "4th Year Computer Science",
+  passions: ["I dont know what im writing", "How to center a div", "Touching Grass"],
   learning: ["System Design", "Cloud Infrastructure", "DevOps"],
   philosophy: "Bridging technology and nature through elegant solutions"
 };
