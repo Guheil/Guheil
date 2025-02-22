@@ -2,7 +2,7 @@
   
 # 🚀 Xavier Gael
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Creative+Problem+Solver;4th+Year+CS+Student;Building+Digital+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Im+Stuck+Developer;Creative+Problem+Solver;4th+Year+CS+Student;Building+BS)](https://git.io/typing-svg)
 
 <img height="180" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
