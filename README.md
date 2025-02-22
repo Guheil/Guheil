@@ -77,8 +77,6 @@ const gael = {
 
 ---
 
-[Previous content remains the same until the last section, where it changes to:]
-
 ---
 
 <div align="center">
