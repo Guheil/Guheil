@@ -107,11 +107,11 @@ graph LR
 
 </div>
 
-**2024 Objectives:**
-- 🎯 Build 3 full-stack projects with modern tech stack
+**2025 Objectives:**
+- 🎯 Build successful projects to my client's demands
 - 📚 Master system design fundamentals
 - 🤝 Contribute to open-source projects
-- ☁️ Get AWS/Azure certification
+- ☁️ Learn cloud development
 - 🌐 Expand professional network
 
 ---
@@ -156,19 +156,6 @@ graph LR
 <div align="center">
   
 ### 💭 *"Every expert was once a beginner. Every pro was once an amateur."*
-
-<br>
-
-```
-    ╔══════════════════════════════════════╗
-    ║                                      ║
-    ║     🌟 Always learning, always       ║
-    ║        growing, always coding 🌟     ║
-    ║                                      ║
-    ╚══════════════════════════════════════╝
-```
-
-<br>
 
 **⚡ Powered by curiosity and fueled by coffee ☕**
 
